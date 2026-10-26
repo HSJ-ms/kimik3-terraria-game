@@ -2,4 +2,7 @@ node_modules/
 *.log
 .codeartsdoer/
 .DS_Store
-Thumbs.db
+Thumbs.db.agents/
+.arts/
+.claude/
+skills-lock.json
